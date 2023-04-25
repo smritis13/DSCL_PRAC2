@@ -1,4 +1,7 @@
-# DSCL_PRAC2
+# DSCL_PRAC2 
+In this program, the user is asked to enter two integers. These two integers are stored in variables.
+Then, these two numbers are added using the + operator,subtracted using - operator, multiplied using * operator and divided using / operator and shown till 2 decimal places.
+
 #include <stdio.h>
 int main()
 {
